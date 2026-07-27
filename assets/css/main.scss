@@ -1,4 +1,5 @@
 ---
 ---
 
-/* Custom Styling */
+@import "academicpages/skins/{{ site.whitespace_skin | default: 'default' }}";
+@import "academicpages";
