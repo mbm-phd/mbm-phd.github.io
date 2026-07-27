@@ -2,7 +2,7 @@
 title: "Extreme Rainfall Indices Prediction with Atmospheric Parameters and Ocean-atmospheric Teleconnections using Random Forest Model"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: /publication/2022-06-06-Extreme-Rainfall-Indices-Prediction
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-06-06
 venue: 'Journal 1'
