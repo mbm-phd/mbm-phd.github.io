@@ -17,7 +17,7 @@ description: "Climate Scientist, JBNU, South Korea"
 author:
   # Biographic information
   name: "Md. Babul Miah"
-  avatar: "/images/babul_profile.jpg" # পরবর্তীতে আপনার ছবি এই নামে images ফোল্ডারে দেবেন
+  avatar: "/images/profile.png" # পরবর্তীতে আপনার ছবি এই নামে images ফোল্ডারে দেবেন
   bio: "Climate Scientist, JBNU, South Korea"
   location: "567 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do, 54896 Republic of Korea"
   email            : "babul@jbnu.ac.kr" 
