@@ -1,39 +1,15 @@
----
----
+/* Global Font & Size Settings for all pages */
+html, body, p, li, h1, h2, h3, h4, h5, h6, table, td, th {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
+body {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+}
 
-@import
-    "vendor/breakpoint/breakpoint",
-
-    "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
-    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
-    "include/mixins",
-    "vendor/susy/susy",
-
-    "layout/reset",
-    "layout/base",
-
-    "include/utilities",
-    "layout/tables",
-    "layout/buttons",
-    "layout/notices",
-    "layout/masthead",
-    "layout/navigation",
-    "layout/footer",
-    "syntax",
-
-    "layout/forms",
-
-    "layout/page",
-    "layout/archive",
-    "layout/sidebar",
-    "layout/json_cv"
+/* Adjust heading sizes globally */
+h1 { font-size: 1.75rem !important; }
+h2 { font-size: 1.4rem !important; }
+h3 { font-size: 1.2rem !important; }
 ;
