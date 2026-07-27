@@ -1,15 +1,5 @@
-/* Global Font & Size Settings for all pages */
-html, body, p, li, h1, h2, h3, h4, h5, h6, table, td, th {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
-}
+---
+---
 
-body {
-  font-size: 16px !important;
-  line-height: 1.6 !important;
-}
-
-/* Adjust heading sizes globally */
-h1 { font-size: 1.75rem !important; }
-h2 { font-size: 1.4rem !important; }
-h3 { font-size: 1.2rem !important; }
-;
+@import "minimal-mistakes/skins/{{ site.whitespace_skin | default: 'default' }}";
+@import "minimal-mistakes";
