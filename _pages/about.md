@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Md. Babul Miah"
-excerpt: "Climate Scientist, Climate Modeling Lab, Jeonbuk National University(JBNU)"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
