@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Md. Babul Miah is a Doctoral Research Fellow/Ph.D. (M.S.-Ph.D. Integrated) at the Department of Environment and Energy/Climate Modeling Lab at Jeonbuk National University(JBNU), South Korea, advised by Prof. Jong-Yeon Park. His research interests include climate change, the reversibility of climate extremes (i.e. temperature and precipitation extremes). His work is primarily concerned with the application of machine learning and deep learning to climate change, climate extremes and biogeochemical prediction. Other research areas include the understanding of the response of ocean-atmosphere teleconnections to climate extremes and drought. 
+Md. Babul Miah is a Doctoral Research Fellow/Ph.D. (M.S.-Ph.D. Integrated) at the Department of Climate, Environment and Energy/[Climate Modeling Lab](https://cml.jbnu.ac.kr/cml/index..do) at Jeonbuk National University(JBNU), South Korea, advised by Prof. Jong-Yeon Park. His research interests include climate change, the reversibility of climate extremes (i.e. temperature and precipitation extremes). His work is primarily concerned with the application of machine learning and deep learning to climate change, climate extremes and biogeochemical prediction. Other research areas include the understanding of the response of ocean-atmosphere teleconnections to climate extremes and drought. 
 
 Email: babul@jbnu.ac.kr ; babul@rsds-bd.org
 
