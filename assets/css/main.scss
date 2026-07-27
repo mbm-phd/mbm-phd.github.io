@@ -1,32 +1,39 @@
 ---
-# Only the main Sass file needs front matter (the dashes are necessary)
 ---
 
-@charset "utf-8";
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
 
-// Variables
-@import "theme/variables";
+@import
+    "vendor/breakpoint/breakpoint",
 
-// Reset and Core
-@import "theme/reset";
-@import "theme/base";
+    "themes",
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
+    "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
-// Components
-@import "theme/buttons";
-@import "theme/forms";
-@import "theme/tables";
-@import "theme/notices";
-@import "theme/masters";
-@import "theme/animations";
+    "include/mixins",
+    "vendor/susy/susy",
 
-// Layout
-@import "theme/navigation";
-@import "theme/footer";
-@import "theme/sidebar";
+    "layout/reset",
+    "layout/base",
 
-// Pages
-@import "theme/archive";
-@import "theme/post";
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-// Utilities
-@import "theme/utility";
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+    "layout/json_cv"
+;
