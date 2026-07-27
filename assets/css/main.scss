@@ -1,5 +1,5 @@
 ---
 ---
 
-@import "theme/skins/{{ site.whitespace_skin | default: 'default' }}";
-@import "theme";
+@import "theme/skins/default";
+@import "theme/index";
