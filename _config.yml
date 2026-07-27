@@ -9,7 +9,7 @@
 # Basic Site Settings
 title: "Md. Babul Miah"
 url: "https://mbm-phd.github.io"
-description: "Ph.D. Fellow in Climate, Environment and Energy"
+description: "Climate Scientist, JBNU, South Korea"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -18,7 +18,7 @@ author:
   # Biographic information
   name: "Md. Babul Miah"
   avatar: "/images/babul_profile.jpg" # পরবর্তীতে আপনার ছবি এই নামে images ফোল্ডারে দেবেন
-  bio: "Ph.D. Fellow in Climate, Environment and Energy"
+  bio: "Climate Scientist, JBNU, South Korea"
   location: "567 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do, 54896 Republic of Korea"
   email            : "babul@jbnu.ac.kr" 
 
