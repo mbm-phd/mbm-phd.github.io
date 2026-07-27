@@ -1,36 +1,137 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+  .pub-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-family: inherit;
+  }
+  .pub-row {
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .pub-year {
+    width: 10%;
+    vertical-align: top;
+    padding: 14px 10px 14px 0;
+    font-weight: 700;
+    color: #2563eb;
+  }
+  .pub-details {
+    width: 90%;
+    vertical-align: top;
+    padding: 14px 0;
+    line-height: 1.5;
+    color: #374151;
+  }
+  .pub-details strong {
+    color: #111827;
+  }
+  .pub-title {
+    color: #1f2937;
+  }
+  .pub-journal {
+    font-style: italic;
+    color: #4b5563;
+  }
+  .doi-link {
+    color: #2563eb;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .doi-link:hover {
+    text-decoration: underline;
+  }
+  .badge {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 700;
+    border-radius: 4px;
+    text-transform: uppercase;
+    margin-left: 6px;
+  }
+  .badge-submitted { background-color: #e0e7ff; color: #4338ca; }
+  .badge-review { background-color: #fef3c7; color: #b45309; }
+  .badge-preprint { background-color: #f3e8ff; color: #6b21a8; }
+  
+  .btn-container {
+    margin-top: 25px;
+    display: flex;
+    gap: 12px;
+  }
+  .pub-btn {
+    padding: 8px 18px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .btn-outline {
+    border: 2px solid #2563eb;
+    color: #2563eb;
+  }
+  .btn-solid {
+    background-color: #0d9488;
+    color: white;
+  }
+  .section-heading {
+    margin-top: 35px;
+    font-size: 18px;
+    font-weight: 700;
+    border-bottom: 2px solid #111827;
+    padding-bottom: 5px;
+  }
+</style>
 
-{% include base_path %}
+<table class="pub-table">
+  <tr class="pub-row">
+    <td class="pub-year">2026</td>
+    <td class="pub-details">
+      <strong>Fahad, A. A.</strong>, Molod, A., Wargan, K., Menemenlis, D., Heimbach, P., Trayanov, A., ... & Coy, L. Northern Hemisphere stratospheric temperature response to external forcing in decadal climate simulations. <span class="pub-journal">Atmospheric Chemistry and Physics</span>, 26(1), 647–663.
+    </td>
+  </tr>
+  <tr class="pub-row">
+    <td class="pub-year">2024</td>
+    <td class="pub-details">
+      <strong>Fahad, A. A.</strong>, et al. Climate Change Quadruples Frequency of Flood-Causing Extreme Monsoon Rainfall Events in Bangladesh and Northeast India. <span class="pub-journal">QJRMS</span>. <a href="https://doi.org/10.1002/qj.4645" class="doi-link" target="_blank">doi:10.1002/qj.4645</a>
+    </td>
+  </tr>
+  <tr class="pub-row">
+    <td class="pub-year">2022</td>
+    <td class="pub-details">
+      <strong>Uddin, M. J.</strong>, Y. Li, M. Y. Tamim, <strong>M. B. Miah</strong>, and S. M. S. Ahmed. Extreme Rainfall Indices Prediction with Atmospheric Parameters and Ocean–Atmospheric Teleconnections Using a Random Forest Model. <span class="pub-journal">J. Appl. Meteor. Climatol.</span>, 61, 651–667. <a href="https://doi.org/10.1175/JAMC-D-21-0170.1" class="doi-link" target="_blank">doi:10.1175/JAMC-D-21-0170.1</a>
+    </td>
+  </tr>
+</table>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="section-heading">Preprints & under review</div>
+
+<table class="pub-table">
+  <tr class="pub-row">
+    <td class="pub-year">2026</td>
+    <td class="pub-details">
+      <strong>Miah, M. B.</strong>, & Singh, M. Dynamical-Model-Informed Stochastic Flow Matching for Global Probabilistic Subseasonal Forecasting. <span class="pub-journal">Artificial Intelligence for the Earth Systems</span> <span class="badge badge-submitted">Submitted</span>
+    </td>
+  </tr>
+  <tr class="pub-row">
+    <td class="pub-year">2026</td>
+    <td class="pub-details">
+      <strong>Miah, M. B.</strong>, et al. Physics-ML Multi-Fidelity Strategy for Earth System Model Parameter Optimization. <span class="pub-journal">Journal of Climate</span> <span class="badge badge-review">In Review</span>
+    </td>
+  </tr>
+</table>
+
+<div class="btn-container">
+  <a href="#" class="pub-pub-btn btn-outline">Show all publications</a>
+  <a href="https://scholar.google.com" class="pub-btn btn-solid" target="_blank">Google Scholar</a>
+</div>
 
 
 
