@@ -24,4 +24,4 @@ For those users that need more advanced functionality, the template also support
 
 News
 ======
-[December 2025:] Paper titled "Irreversibility of extreme precipitation intensity in global monsoon areas under multiple carbon neutrality scenarios" is accepted in the Weather and Climate Extremes.
+[December 2025]: Paper titled "Irreversibility of extreme precipitation intensity in global monsoon areas under multiple carbon neutrality scenarios" is accepted in the Weather and Climate Extremes.
