@@ -11,53 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Ph.D Fellow in  Climate, Environment and Energy, Jeobnuk National University, Jeonju, South Korea, 2027 (expected)
+* B.S. in B.Sc in  Environmental Science and Disaster Management, Gopalganj Science and Technology University, Bangladesh , 2022
 
-Work experience
+Work/ Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep.2024- present: Founder & Director
+  * Climate and Ocean Modeling Lab
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep. 2023- present: Research Assistant
+  * Climate Modeling Lab/Jeonbuk National University, South Korea
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Assistant Director
+  * [Research and Skill Development Society, Dhaka, Bangladesh](https://rsds-bd.org/assistant-director/)
   
-Skills
+Tools I use/used in my research-
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Linux (Ubuntu, Fedora)
+* Models: WRF,  GFDL- ESM4
+* Programming Language: Python, NCL, CDO, GrADS, C, bash scripting.
+* Machine and Deep Learning: Scikit-learn,  Keras, Tensorflow, Random Forest Model, LSTM, CNN
   
 Service and leadership
 ======
