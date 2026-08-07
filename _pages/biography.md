@@ -11,6 +11,13 @@ I am a Doctoral Research Fellow (M.S.–Ph.D. Integrated) in the Department of C
 
 Email: [babul@jbnu.ac.kr](mailto:babul@jbnu.ac.kr)
 
+Tools I use/used in my research-
+======
+* Linux (Ubuntu, Fedora)
+* Models: WRF,  GFDL- ESM4
+* Programming Language: Python, NCL, CDO, GrADS, C, bash scripting.
+* Machine and Deep Learning: Scikit-learn,  Keras, Tensorflow, Random Forest Model, LSTM, CNN
+
 Education
 ======
 * Ph.D in Climate, Environment and Energy, Jeobnuk National University, Jeonju, South Korea, 2027 (expected)
@@ -26,14 +33,7 @@ Work/ Research Experience
 
 * Summer 2015: Assistant Director
   * [Research and Skill Development Society, Dhaka, Bangladesh](https://rsds-bd.org/assistant-director/)
-  
-Tools I use/used in my research-
-======
-* Linux (Ubuntu, Fedora)
-* Models: WRF,  GFDL- ESM4
-* Programming Language: Python, NCL, CDO, GrADS, C, bash scripting.
-* Machine and Deep Learning: Scikit-learn,  Keras, Tensorflow, Random Forest Model, LSTM, CNN
-  
+    
 News
 ======
 **December 2025:** Paper titled "Irreversibility of extreme precipitation intensity in global monsoon areas under multiple carbon neutrality scenarios" is accepted in the Weather and Climate Extremes.
