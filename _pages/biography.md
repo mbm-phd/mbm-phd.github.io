@@ -11,7 +11,7 @@ I am a Doctoral Research Fellow (M.S.–Ph.D. Integrated) in the Department of C
 
 Email: [babul@jbnu.ac.kr](mailto:babul@jbnu.ac.kr)
 
-Tools I use/used in my research-
+Tools I use/used in my research
 ======
 * Linux (Ubuntu, Fedora)
 * Models: WRF,  GFDL- ESM4
