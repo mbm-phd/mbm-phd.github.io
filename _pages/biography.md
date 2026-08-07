@@ -21,8 +21,8 @@ Work/ Research Experience
 * Sep.2024- present: Founder & Director
   * [Climate and Ocean Modeling Lab](https://coml-babul.org/director/)
 
-* Sep. 2023- present: Research Assistant
-  *[Climate Modeling Lab/Jeonbuk National University,South Korea](https://cml.jbnu.ac.kr/cml/index..do)/
+* Sep.2023- present: Research Assistant
+  * [Climate Modeling Lab/Jeonbuk National University,South Korea](https://cml.jbnu.ac.kr/cml/index..do)/
 
 * Summer 2015: Assistant Director
   * [Research and Skill Development Society, Dhaka, Bangladesh](https://rsds-bd.org/assistant-director/)
