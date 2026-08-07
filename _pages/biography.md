@@ -21,7 +21,7 @@ Tools I use/used in my research
 Education
 ======
 * Ph.D in Climate, Environment and Energy, Jeobnuk National University, Jeonju, South Korea, 2027 (expected)
-* B.S. in B.Sc in Environmental Science and Disaster Management, Gopalganj Science and Technology University, Bangladesh , 2022
+* B.Sc in Environmental Science and Disaster Management, Gopalganj Science and Technology University, Bangladesh, 2022
 
 Work/ Research Experience
 ======
