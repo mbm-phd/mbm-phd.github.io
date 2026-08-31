@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Ph.D Fellow, Climate and Ocean Physicist </a>. Climate Modeling Lab, JBNU, South Korea
 
 profile:
   align: right
