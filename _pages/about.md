@@ -9,9 +9,9 @@ profile:
   image: babul.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Climate Modeling Lab</p>
+    <p>567 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do, 54896 Republic of Korea</p>
+    <p>babul@jbnu.ac.kr</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
