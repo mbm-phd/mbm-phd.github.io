@@ -27,8 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Doctoral Research Fellow (M.S.–Ph.D. Integrated) in the Department of Climate, Environment and Energy at the [Climate Modeling Lab](https://cml.jbnu.ac.kr/cml/index..do), Jeonbuk National University (JBNU), South Korea, advised by [Prof. Jong-Yeon Park](https://cml.jbnu.ac.kr/cml/11843/subview.do). My research interests include climate change and the irreversibility of climate extremes (such as temperature and precipitation extremes). Additionally, I focus on applying machine learning and deep learning to climate change, climate extremes, and biogeochemical predictions. I am also the founder and director of the [Climate and Ocean Modeling Lab](https://coml-babul.org/director/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Email: babul@jbnu.ac.kr
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
