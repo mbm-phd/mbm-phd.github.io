@@ -1,65 +1,41 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Md. Babul Miah",
+    "label": "Ph.D Fellow, Climate and Ocean Physicist | Climate Modeling Lab, JBNU",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "babul@jbnu.ac.kr",
+    "phone": "+8201021894609",
+    "url": "https://mbm-phd.github.io",
+    "summary": "Doctoral Research Fellow specializing in climate and ocean modeling, with a focus on climate change and the irreversibility of extreme temperature and precipitation events.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "567 Baekje-daero, Deokjin-gu",
+      "postalCode": "54896",
+      "city": "Jeonju",
+      "countryCode": "South Korea",
+      "region": "Jeollabuk-do"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Climate Modeling Lab , Jeonbuk National University, Republic of Korea",
+      "position": "Graduate Research Assistant",
+      "location": "Jeonju, Republic of Korea",
+      "url": "https://top.jbnu.ac.kr/eeseng/index.do"
+      "startDate": "2023-09-01",
+      "endDate": "2028-09-01",
+      "summary": "Investigate the Irreversibility of extreme precipitation of multiple carbon neutrality scenarios. Run WRF model to investigate downscaling for NIMS_UKESM1 multiple carbon neutrality output of precipitation.",
       "highlights": ["Relativity", "Description 2."]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Research and Skill Development Society, Bangladesh",
+      "position": "Assistant Director and Research Associate",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://rsds-bd.org/assistant-director/"
+      "startDate": "2020-01-01",
+      "endDate": "2023-08-31",
       "summary": "",
       "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
     }
   ],
   "volunteer": [
@@ -75,26 +51,27 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "Jeonbuk National University",
+      "location": "Jeonju, Republic of Korea",
+      "url": "https://www.jbnu.ac.kr/",
+      "area": "Climate, Environment and Energy",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
+      "startDate": "2023-09-01",
+      "endDate": "2028-08-31",
+      "score": "4.29 / 4.50",
+      "courses": ["Advanced Remote Sensing, Analysis of Earth System Data, Advance Geophysical Imaging , Advance Climate Technology, Advance Atmospheric Physic and Chemistry , Advance Hydrology, Advance Climate and Ocean Modeling"],
       "highlights": ["Description 1.", "Description 2."]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
+      "institution": "Gopalganj Science and Technology University",
+      "location": "Gopalganj, Bangladesh",
+      "url": "https://gstu.edu.bd",
+      "area": " Environmental Science and Disaster Management",
+      "studyType": "B.Sc (Hons)",
+      "startDate": "2017-01-01",
+      "endDate": "2022-03-06",
+      "score": "2.80 / 4.00",
+      "courses": ["Atmospheric Physics, Meteorology and Climate Process, Environmental Modelling, Remote Sensing, Global Warming and Climate Change, Geographic Information System(GIS). Environmental Mathematics."],
       "highlights": ["Description 1.", "Description 2."]
     }
   ],
