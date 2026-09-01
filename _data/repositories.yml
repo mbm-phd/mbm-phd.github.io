@@ -1,6 +1,8 @@
 github_users:
   - mbm-phd
 
+repo_description_lines_max: 2
+
 github_repos:
   - mbm-phd/extreme_rainfall_prediction
   - mbm-phd/Irreversibility_UKESM1
