@@ -1,14 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - mbm-phd
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - mbm-phd/extreme_rainfall_prediction
+  - mbm-phd/Irreversibility_UKESM1
+  - mbm-phd/mbm-phd.github.io
