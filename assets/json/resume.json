@@ -20,7 +20,7 @@
     {
       "name": "Climate Modeling Lab, Jeonbuk National University",
       "position": "Graduate Research Assistant",
-      "location": "Jeonju, Republic of Korea",
+      "location": "Jeonju, South Korea",
       "url": "https://top.jbnu.ac.kr/eeseng/index.do",
       "startDate": "2023-09-01",
       "endDate": "Present",
@@ -42,7 +42,7 @@
   "education": [
     {
       "institution": "Jeonbuk National University",
-      "location": "Jeonju, Republic of Korea",
+      "location": "Jeonju, South Korea",
       "url": "https://www.jbnu.ac.kr/",
       "area": "Climate, Environment and Energy",
       "studyType": "PhD",
@@ -86,28 +86,26 @@
   "publications": [],
   "skills": [
     {
-      "name": "Research & Tools",
+      "name": "Tools I use/used in my research",
       "level": "Intermediate",
       "icon": "fa-solid fa-code",
       "keywords": [
-        "Python",
-        "WRF Model",
-        "Climate Modeling",
-        "Deep Learning",
-        "Machine Learning",
-        "GIS & Remote Sensing"
+        "Linux: (Ubuntu, Fedora)",
+        "Climate Models: WRF,  GFDL- ESM4",
+        "Programming Language: Python, NCL, CDO, GrADS, C, bash scripting.",
+        "Machine and Deep Learning: Scikit-learn,  Keras, Tensorflow, Random Forest Model, LSTM, CNN"
       ]
-    }
+    } 
   ],
   "languages": [
     {
-      "language": "Bengali",
-      "fluency": "Native speaker",
+      "language": "English ",
+      "fluency": "Professional working proficiency (IELTS 6.5)",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Bengali",
+      "fluency": "Native Speaker",
       "icon": ""
     }
   ],
@@ -116,10 +114,11 @@
       "name": "Climate Science",
       "icon": "fa-solid fa-cloud-sun-rain",
       "keywords": [
+        "Ocean Atmospheric Dynamics", 
+        "Climate Change,  Global Monsoon,  Indian Ocean and Asian Monsoon",
         "Climate Extremes",
-        "Ocean Modeling",
-        "Carbon Neutrality Scenarios",
-        "Precipitation Modeling"
+        "Earth System/Climate Change Modeling", 
+        "Carbon Neutrality Scenarios"
       ]
     }
   ],
