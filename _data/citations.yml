@@ -1,1 +1,23 @@
-
+metadata:
+  last_updated: '2026-09-02'
+papers:
+  ecSKGKoAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: Statistical Data Analysis and Visualization with SPSS
+    year: '2024'
+  ecSKGKoAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Irreversibility in Extreme Precipitation of Global Monsoon Area under Multiple Carbon Neutrality Scenarios
+    year: '2024'
+  ecSKGKoAAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Scientific Data Analysis and Visualization with Python
+    year: '2023'
+  ecSKGKoAAAAJ:qjMakFHDy7sC:
+    citations: 11
+    title: Extreme rainfall indices prediction with atmospheric parameters and ocean-atmospheric teleconnections using Random Forest model
+    year: '2022'
+  ecSKGKoAAAAJ:zYLM7Y9cAGgC:
+    citations: 1
+    title: Irreversibility of extreme precipitation intensity in global monsoon areas under multiple carbon neutrality scenarios
+    year: '2025'
