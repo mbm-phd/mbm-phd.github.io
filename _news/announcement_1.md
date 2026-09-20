@@ -6,3 +6,5 @@ related_posts: false
 ---
 
 Irreversibility of extreme precipitation intensity in global monsoon areas under multiple carbon neutrality scenarios Published in *Weather and Climate Extremes*.
+
+---
