@@ -123,7 +123,7 @@ bing_site_verification:
 # -----------------------------------------------------------------------------
 
 blog_name: notes
-blog_description: Notes on Climate Change, Climate Modeling, and GeoAI
+blog_description: Notes on Irreversible Climate Change, Climate Modeling, Machine learning and Deep learning 
 permalink: /blog/:year/:title/
 lsi: false
 
