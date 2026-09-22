@@ -301,7 +301,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories]
 
-display_tags: ["climate-change", "geoai", "extreme-events"]
+display_tags: ["irreversibility-of-climate-change","extreme-events", "ml&dl",]
 display_categories: ["essays"]
 
 # -----------------------------------------------------------------------------
