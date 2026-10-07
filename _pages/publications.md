@@ -11,6 +11,24 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --group_by type,year --group_order descending,descending %}
+  <!-- ==================== JOURNAL ARTICLES ==================== -->
+
+  <h2 class="bibliography">Journal Articles</h2>
+
+  {% bibliography --query @article %}
+
+
+  <!-- ==================== CONFERENCE ==================== -->
+
+  <h2 class="bibliography">Conference</h2>
+
+  {% bibliography --query @misc %}
+
+
+  <!-- ==================== BOOKS ==================== -->
+
+  <h2 class="bibliography">Books</h2>
+
+  {% bibliography --query @book %}
 
 </div>
