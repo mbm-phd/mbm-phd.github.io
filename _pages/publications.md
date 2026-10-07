@@ -11,24 +11,10 @@ nav_order: 2
 
 <div class="publications">
 
-  <!-- ==================== JOURNAL ARTICLES ==================== -->
+{% bibliography --query @article %}
 
-  <h2 class="bibliography">Journal Articles</h2>
+{% bibliography --query @misc %}
 
-  {% bibliography --query @article %}
-
-
-  <!-- ==================== CONFERENCE ==================== -->
-
-  <h2 class="bibliography">Conference</h2>
-
-  {% bibliography --query @misc %}
-
-
-  <!-- ==================== BOOKS ==================== -->
-
-  <h2 class="bibliography">Books</h2>
-
-  {% bibliography --query @book %}
+{% bibliography --query @book %}
 
 </div>
